@@ -83,6 +83,7 @@ npm start
 
 ---
 
+
 ## 🌐 Deployment Options
 
 You can deploy this frontend website easily on:
@@ -91,13 +92,24 @@ You can deploy this frontend website easily on:
 * 🔹 [**Netlify**](https://netlify.com/)
 * 🔹 [**GitHub Pages**](https://pages.github.com/) *(with a static export setup)*
 
+## 📽️ Demo Preview (Video + Screenshots)
+
+> Here's a walkthrough video of the full BSFI website along with mobile and desktop screenshots showcasing the UI.
+
+🎥 **Watch Full Demo**: [Click here to view the video](https://github.com/user-attachments/assets/4108edee-1dde-4916-934e-aa124136cdec)
+
 ---
 
-## 📸 Screenshots
+### 📸 Interface Snapshots
 
-*(Add screenshots of the homepage, responsive mobile view, etc. here)*
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="https://github.com/user-attachments/assets/587a9ab7-c00d-489b-988f-c969932bffc0" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3456afab-44ef-45df-8ab0-d3aeb17f222e" width="250"/>
+  <img src="https://github.com/user-attachments/assets/6d105a8d-7636-435f-a732-b418344463a8" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d8194cc4-2a98-4d6a-bc4f-b8bfb4b7d1af" width="250"/>
+  <img src="https://github.com/user-attachments/assets/53247baf-491a-4f6c-a9ca-9fcf009f14cb" width="250"/>
+</div>
 
----
 
 
 **Aafreen Khan**
@@ -105,6 +117,3 @@ You can deploy this frontend website easily on:
 🔗 [GitHub Profile](https://github.com/Aafreen2203)
 
 ---
-
-Let me know if you want me to create a [deployment guide](f), [add badges](f), or [custom sections like "FAQs" or "Known Issues"](f).
-```
